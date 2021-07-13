@@ -6,8 +6,8 @@
 But unlike a normal one, this method uses [IK (Inverse Kinematics)](https://en.wikipedia.org/wiki/Inverse_kinematics) to procedurally position joints, so it automatically generates animation in real-time to allow for a more diverse series of actions and an interaction with terrain features.
 
 
-[Video1](https://youtu.be/pUp133rtDxM)  
-[Video2](https://youtu.be/a3W1PT26aXU)
+Video1: https://youtu.be/pUp133rtDxM  
+Video2: https://youtu.be/a3W1PT26aXU  
 
 ## Samples
 |style|image|
